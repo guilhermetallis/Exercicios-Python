@@ -1,2 +1,2 @@
-# Exerc-cios-Python
+# Exercicios-Python
 Exercícios práticos realizados durante o curso de Fundamentos de Python do SENAI.
